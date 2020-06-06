@@ -29,7 +29,7 @@
 [Forum](forum.md)
 
 
-[gimmick:theme (inverse: false)](spacelab)
+[gimmick:theme (inverse: false)](flatly)
 
 [gimmick:ThemeChooser](Change theme)
 
