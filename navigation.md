@@ -31,7 +31,7 @@
 
 [gimmick:theme (inverse: false)](flatly)
 
-[gimmick:ThemeChooser](Change theme)
+[gimmick:ThemeChooser](选择外观)
 
 [gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki/)
 
