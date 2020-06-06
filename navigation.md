@@ -29,11 +29,9 @@
 [Forum](forum.md)
 
 
-[gimmick:theme (inverse: false)](flatly)
+[gimmick:theme](flatly)
 
 [gimmick:ThemeChooser](选择外观)
-
-[gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki/)
 
 <!-- counter pixel for counting visitors -->
 <!-- <img src="http://stats.markdown.io/mdwiki_info.gif" style="display:none;"/> -->
