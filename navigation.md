@@ -31,8 +31,6 @@
 
 [gimmick:theme](flatly)
 
-[gimmick:ThemeChooser](选择外观)
-
 <!-- counter pixel for counting visitors -->
 <!-- <img src="http://stats.markdown.io/mdwiki_info.gif" style="display:none;"/> -->
 
