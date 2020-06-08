@@ -1,39 +1,17 @@
 # 大利之川
 
-[About](index.md)
+[关于](index.md)
 
-[Docs]()
+[文档]()
 
-  * [Quickstart](quickstart.md)
-  * [Layout](layout.md)
-  * [FAQ](faq.md)
-  - - - -
-  * # Advanced
-  * [Customizing](customizing.md)
-
-[Gimmicks](gimmicks.md)
-
-[Tutorials]()
-
-  * [About the Tutorials](tutorials.md)
-  - - - -
-  * [Hosting with GitHub](tutorials/github.md)
-  * [Hosting with Google Drive](tutorials/drive.md)
-  * [Use with Dropbox](tutorials/dropbox.md)
-  * [Set up MDwiki on IIS](tutorials/iis/iis.md)
-
-[Examples](examples.md)
-[Download](download.md)
-[Contribute](contribute/index.md)
-[Blog](blog.md)
-[Forum](forum.md)
+  * [快速开始](quickstart.md)
 
 
 [gimmick:theme](flatly)
 
 <!-- counter pixel for counting visitors -->
 <!-- <img src="http://stats.markdown.io/mdwiki_info.gif" style="display:none;"/> -->
-
+<!--
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -47,3 +25,4 @@
   })();
 
 </script>
+-->
